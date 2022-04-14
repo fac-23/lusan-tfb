@@ -46,6 +46,7 @@ We focused on building the front-end of the site as the data is being prepared. 
 * Filtering: filter by catgergory, condition, price.
 * Search bar.
 * Grid gallery.
+* Image carousel.
 * Provider comparison table.
 * Responsive mobile first design.
 * Add and delete from wishlist.
